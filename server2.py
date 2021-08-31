@@ -14,3 +14,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             if not data:
                 break
             conn.sendall(data)
+            conn, addr = s.accept()
+            print('Connected by', addr)
