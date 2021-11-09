@@ -1,0 +1,68 @@
+[
+    {
+        "user": "Teddy",
+        "timestamp": "2021-11-08T16:58:45",
+        "message": "Ol\u00e1 mundo",
+        "source": "group"
+    },
+    {
+        "user": "Lucas",
+        "timestamp": "2021-11-08T16:59:36",
+        "message": "Adeus mundo",
+        "source": "sisdis"
+    },
+    {
+        "user": "Teddy",
+        "timestamp": "2021-11-08T16:59:45",
+        "message": "askdjfhlkasdf",
+        "source": "group"
+    },
+    {
+        "user": "Teddy",
+        "timestamp": "2021-11-08T16:59:46",
+        "message": "adkjfjblaksdf",
+        "source": "group"
+    },
+    {
+        "user": "Andriy",
+        "timestamp": "2021-11-08T17:00:27",
+        "message": "mensagem grupo",
+        "source": "group"
+    },
+    {
+        "user": "Andriy",
+        "timestamp": "2021-11-08T17:00:35",
+        "message": "mensagem privada",
+        "source": "private"
+    },
+    {
+        "user": "Teddy",
+        "timestamp": "2021-11-08T17:00:58",
+        "message": "mensagem no grupo",
+        "source": "group"
+    },
+    {
+        "user": "Lucas",
+        "timestamp": "2021-11-08T17:01:14",
+        "message": "Salve ",
+        "source": "Teddy"
+    },
+    {
+        "user": "Andriy",
+        "timestamp": "2021-11-08T17:01:59",
+        "message": "recebi sim",
+        "source": "private"
+    },
+    {
+        "user": "Teddy",
+        "timestamp": "2021-11-08T17:57:19",
+        "message": "George?",
+        "source": "group"
+    },
+    {
+        "user": "Andriy",
+        "timestamp": "2021-11-08T17:57:26",
+        "message": "teste",
+        "source": "group"
+    }
+]
